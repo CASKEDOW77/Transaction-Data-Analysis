@@ -8,4 +8,5 @@ To create an interactive UPI data analysis report using Power BI that visualizes
 - How do transaction amounts and remaining balances compare across cities using the city-wise table visualization?
 - How do transaction patterns vary across device types (e.g., mobile vs. desktop), provide slicer?
 - How do age groups and genders influence UPI transactions and payment methods, provide filter through the slicers?
-- Report Page 1 <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Page</a>
+- Report Page 1 <a href="https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png">View Page</a>
+- Report Page 2 <a href="https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png">View Page</a>
