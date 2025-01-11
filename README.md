@@ -20,4 +20,5 @@ To create an interactive UPI data analysis report using Power BI that visualizes
 - Highlighted city-wise transactions by amounts and remaining balances across different currencies for better regional analysis.- The adult age group (30-49 yrs) is 
   max contributing (~50%) and buys the most products.
 - Enabled users to analyze transactions filtered by parameters such as age groups, device types, gender, payment methods, and transaction purposes.
+- Implemented bookmarks and a bookmark navigator to allow seamless switching between KPIs, such as viewing transaction amounts and remaining balances in different chart types (line chart, column chart) for better comparison.
 - Visualized data interactively using slicers and bookmark navigation for seamless KPI comparison.
