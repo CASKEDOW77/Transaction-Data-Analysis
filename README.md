@@ -13,8 +13,11 @@ To create an interactive UPI data analysis report using Power BI that visualizes
 ## Report Pages
 
 ![PAGE_1_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png)
-
 ![PAGE_2_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_2_REPORT.png)
+![PAGE_1(2)_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1(2)_REPORT.png)
+![PAGE_1(3)_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1(3)_REPORT.png)
+![PAGE_1(4)_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png)
+
 ## Project Insight
 - Identified monthly transaction trends with peaks in specific months (e.g., May and October) using a line chart.
 - Highlighted city-wise transactions by amounts and remaining balances across different currencies for better regional analysis.- The adult age group (30-49 yrs) is 
