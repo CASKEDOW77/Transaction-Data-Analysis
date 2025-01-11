@@ -15,7 +15,7 @@ To create an interactive UPI data analysis report using Power BI that visualizes
 ![PAGE_1_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png)
 ![PAGE_1(2)_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1(2)_REPORT.png)
 ![PAGE_1(3)_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1(3)_REPORT.png)
-![PAGE_1(4)_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png)
+![PAGE_1(4)_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1(4)_REPORT.png)
 ![PAGE_2_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_2_REPORT.png)
 
 ## Project Insight
