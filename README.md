@@ -15,3 +15,9 @@ To create an interactive UPI data analysis report using Power BI that visualizes
 ![PAGE_1_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png)
 
 ![PAGE_2_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_2_REPORT.png)
+## Project Insight
+- Identified monthly transaction trends with peaks in specific months (e.g., May and October) using a line chart.
+- Highlighted city-wise transactions by amounts and remaining balances across different currencies for better regional analysis.- The adult age group (30-49 yrs) is 
+  max contributing (~50%) and buys the most products.
+- Enabled users to analyze transactions filtered by parameters such as age groups, device types, gender, payment methods, and transaction purposes.
+- Visualized data interactively using slicers and bookmark navigation for seamless KPI comparison.
