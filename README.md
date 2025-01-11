@@ -10,7 +10,7 @@ To create an interactive UPI data analysis report using Power BI that visualizes
 - How do age groups and genders influence UPI transactions and payment methods, provide filter through the slicers?
 - Report Page 1 <a href="https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png">View Page</a>
 - Report Page 2 <a href="https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_2_REPORT.png">View Page</a>
-## Dashboard
+## Report Pages
 
 ![PAGE_1_REPORT]( https://github.com/CASKEDOW77/UPI-Data-Analysis/blob/main/PAGE_1_REPORT.png)
 
